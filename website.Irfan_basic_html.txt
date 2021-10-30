@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+
+</head>
+<body>
+	
+	<h1><center>Saya Irfan Omar</center></h1>
+    <font color="blue">
+    <p><i>Assalamualaikum semua apa khabar</i></p>
+    <p><i>Semoga sihat sejahtera</i></p>
+    <p><i>Selamat datang ke laman sesawang saya</i></p>
+    <br1>
+    <font color="black">
+    <p><center><b>Silakan melawat laman sesawang saya</b></center></p>
+    
+</body>
+</html>
